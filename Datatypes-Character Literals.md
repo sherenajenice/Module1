@@ -9,6 +9,7 @@ To write a Python program that prints the characters `'E'` and `'h'` using chara
 
 ## 🧾 Program
 print('E')
+
 print('h')
 
 ## Output
